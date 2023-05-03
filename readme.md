@@ -3,6 +3,7 @@
 ### helloboot
 - SpringBoot 2.7.6
 - Java 11
+- Gradle
 ### Dependencies
 
 - Spring Web
